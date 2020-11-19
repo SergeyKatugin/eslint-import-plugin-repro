@@ -1,0 +1,31 @@
+{
+  "name": "admin",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@angular-builders/jest": "^10.0.1",
+    "@angular-devkit/build-angular": "~0.1100.1",
+    "@angular-eslint/builder": "0.8.0-beta.1",
+    "@angular-eslint/eslint-plugin": "0.8.0-beta.1",
+    "@angular-eslint/eslint-plugin-template": "0.8.0-beta.1",
+    "@angular-eslint/schematics": "^0.8.0-beta.1",
+    "@angular-eslint/template-parser": "0.8.0-beta.1",
+    "@typescript-eslint/eslint-plugin": "4.3.0",
+    "@typescript-eslint/parser": "4.3.0",
+    "copyfiles": "^2.4.0",
+    "css-loader": "^4.3.0",
+    "eslint": "^7.6.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsdoc": "30.7.6",
+    "eslint-plugin-prefer-arrow": "1.2.2",
+    "jest-preset-angular": "^8.3.2",
+    "typescript": "^4.0.5"
+  },
+  "publishConfig": {
+    "registry": "https://repo.gas20.ru/repository/npm-hosted"
+  },
+  "resolutions": {
+    "webpack": "5.4.0"
+  }
+}
